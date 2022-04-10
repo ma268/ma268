@@ -10,3 +10,8 @@ I'm a pharmacist turned full-stack developer. Currently working as a full-stack 
 - 👨 View my portfolio at [https://michaelasaad.com](https://michaelasaad.com)
 - 📝 I regularly write articles on [https://simplifyingcode.com](https://simplifyingcode.com)
 - 📫 How to reach me **michaelasaad@hotmail.co.uk**
+
+## 📕 Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
