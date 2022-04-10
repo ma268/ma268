@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Michael.</h1>
-<h3>I'm a pharmacist turned full-stack developer.</h3>
+<h1>Hey there 👋, I'm Michael.</h1>
+<p>I'm a pharmacist turned full-stack developer. Currently working as a full-stack developer at Taina Technology Ltd. I'm passionate about programming and software development and want to help others to make the leap into programming as I did, that's why I founded SimplifyingCode.com. I believe that people are the best resources we have and amazing things can happen when we work together 💪. I'm always looking for opportunities to learn, get new experiences and collaborate with others, please feel free to reach out and connect at any time.</p>
 <hr/>
 <h2>About:</h2>
 
