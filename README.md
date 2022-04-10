@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ma268
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi 👋, I'm Michael.</h1>
+<h3>I'm a pharmacist turned full-stack developer.</h3>
+<hr/>
+<h2>About:</h2>
 
-<!---
-ma268/ma268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🙋‍♂️ Currently working at [Taina Technology LTD](https://www.taina.tech/)
+
+- 👨‍💻 Founder of [SimplifyingCode.com](https://simplifyingcode.com)
+- 🌱 Learning about **AWS and Docker**
+
+- 👨 View my portfolio at [https://michaelasaad.com](https://michaelasaad.com)
+
+- 📝 I regularly write articles on [https://simplifyingcode.com](https://simplifyingcode.com)
+
+- 📫 How to reach me **michaelasaad@hotmail.co.uk**
