@@ -14,4 +14,9 @@ I'm a pharmacist turned full-stack developer. Currently working as a full-stack 
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript basics to learn ReactJs](https://simplifyingcode.com/javascript-basics-to-learn-reactjs)
+- [What is React and why should you learn it](https://simplifyingcode.com/what-is-react-and-why-should-you-learn-it)
+- [What is REST and what are RESTful services?](https://simplifyingcode.com/what-is-rest-and-what-are-restful-services)
+- [Top 5 lessons after landing a new software development job in 2021](https://simplifyingcode.com/top-5-lessons-after-landing-a-new-software-development-job-in-2021)
+- [What are the SOLID principles?](https://simplifyingcode.com/what-are-the-solid-principles)
 <!-- BLOG-POST-LIST:END -->
