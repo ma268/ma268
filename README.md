@@ -18,13 +18,13 @@ I'm a pharmacist turned software engineer with 10+ years of experience. Currentl
 
 <!-- BLOG-POST-LIST:START -->
 - [I Shipped Code I Didn't Fully Understand. Here's How I'm Thinking About That.](https://simplifyingcode.com/i-shipped-code-i-didn-t-fully-understand-here-s-how-i-m-thinking-about-that)
-- [JavaScript basics to learn ReactJs](https://simplifyingcode.com/javascript-basics-to-learn-reactjs)
-- [What is React and why should you learn it](https://simplifyingcode.com/what-is-react-and-why-should-you-learn-it)
-- [What is REST and what are RESTful services?](https://simplifyingcode.com/what-is-rest-and-what-are-restful-services)
-- [What are the SOLID principles?](https://simplifyingcode.com/what-are-the-solid-principles)
+- [Data Models: The Blueprint for Your App's Brain!](https://simplifyingcode.com/data-models-the-blueprint-for-your-apps-brain)
+- [Building Great Software: Reliable, Scalable, and Maintainable!](https://simplifyingcode.com/building-great-software-the-three-musketeers-reliable-scalable-and-maintainable)
+- [What is the difference between transient, singleton and scoped in C#?](https://simplifyingcode.com/what-is-the-difference-between-transient-singleton-and-scoped-in-c)
+- [My honest opinion on Tailwind CSS 🤔](https://simplifyingcode.com/my-honest-opinion-on-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
-## 💻 Tools
+## 💻 Skills
 
 <p>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -35,11 +35,11 @@ I'm a pharmacist turned software engineer with 10+ years of experience. Currentl
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
